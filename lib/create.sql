@@ -1,1 +1,1 @@
-CREATE TABLE bears (id, name, age, gender, color, temperamant, alive);
+CREATE TABLE bears (id, name, age, gender, color, temperament, alive);
